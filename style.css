@@ -122,6 +122,7 @@ nav ul li:hover{
     color: white;
     border-radius: 25px;
     margin-right: .6rem;
+    font-weight: bold;
 }
 
 .section1 h1{
